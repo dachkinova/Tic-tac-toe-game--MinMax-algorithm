@@ -1,0 +1,11 @@
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\obj\Debug\MinMaxTicTacToe.csprojAssemblyReference.cache
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\obj\Debug\MinMaxTicTacToe.Form1.resources
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\obj\Debug\MinMaxTicTacToe.Properties.Resources.resources
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\obj\Debug\MinMaxTicTacToe.csproj.GenerateResource.cache
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\obj\Debug\MinMaxTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\bin\Debug\MinMaxTicTacToe.exe.config
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\bin\Debug\MinMaxTicTacToe.exe
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\bin\Debug\MinMaxTicTacToe.pdb
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\obj\Debug\MinMaxTicTacToe.BinaryTree.resources
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\obj\Debug\MinMaxTicTacToe.exe
+C:\Users\a.dachkinova\source\repos\MinMaxTicTacToe\MinMaxTicTacToe\obj\Debug\MinMaxTicTacToe.pdb
